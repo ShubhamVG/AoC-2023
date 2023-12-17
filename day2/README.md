@@ -1,0 +1,1 @@
+Today's randomly chosen programming language was Python, YAY! Finally not gotta suffer from those _stack smashing_ errors.
